@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first repo
-Author - Kartik Gupta 
+Author - Kartik Gupta (apna college)
+
